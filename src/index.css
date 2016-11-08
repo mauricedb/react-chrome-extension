@@ -2,4 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+
+  /* Added body dimensions */
+  height: 300px;
+  width: 250px;
 }
